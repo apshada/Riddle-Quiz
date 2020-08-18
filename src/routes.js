@@ -14,12 +14,7 @@ class Routes extends React.Component {
         </BrowserRouter>
         );
     }
-    // <BrowserRouter>
-    //     <Switch>
-    //         <Route exact path="/" component={HomeScreen} />
-    //         <Route  path="/counter" component={useCounter} />
-    //     </Switch>
-    // </BrowserRouter>
+
 }
 
 export default Routes;
